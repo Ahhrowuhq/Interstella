@@ -172,16 +172,8 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made with care and compassion",
-  "If our site is down, check ratwire.fun :)",
-  "Thanks for using the site",
-  "Hosted for LHS"
-  "Made with love and care",
-  "Have a good time!",
-  "Check out the settings page",
   "I <3 fortnite",
+  "Fuzzles is watching"
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
